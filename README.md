@@ -1,5 +1,13 @@
 # 中兴光猫系列配置解密工具
 
+```
+ .\ztecfg.exe -d AESCBC -i .\db_user_cfg.xml -o 1.cfg
+```
+
+```
+crc xor aescbc
+```
+
 
 ![zte](https://raw.githubusercontent.com/wx1183618058/ZET-Optical-Network-Terminal-Decoder/master/src.png)
 
